@@ -1,0 +1,4 @@
+### Sintese:
+- A ideia principal do jogo é ser um MMO RPG inspirado em frieren (mudanças ocorreram por conta de direitos e etc, evitar burocracia), mas com elementos "fiéis" ao máximo que conseguirmos.
+- O jogo será feito na Roblox Studio e publicado, obviamente, na plataforma da Roblox, com todos podendo jogar. 
+- Objetivo: Objetivo principal dependerá da sua raça. mais exclusivamente duas: **Demônios** e as **Demais**. As demais classes - como os **elfos**, **anões**, entre outras - terão como objetivo principal a própria timeline do anime, derrotar o rei demônio; enquanto os demônios farão basicamente o que demônios fazem, ficam mais fortes, matam as demais raças e sobrevivem (discutiremos um objetivo mais claro).
