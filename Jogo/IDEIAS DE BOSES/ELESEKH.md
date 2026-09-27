@@ -1,0 +1,2 @@
+### Descrição:
+Outrora seu nome era sinônimo de benevolência, na cidade de Tineah uma deusa encarnada em forma de mariposa abençoava os moradores e era adorada como entidade protetora da região. Porém tudo mudou quando seus fieis sucumbiram a ganância e despertaram a irá de elesekh que tomada de

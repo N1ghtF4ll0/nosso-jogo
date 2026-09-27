@@ -2,8 +2,8 @@
 
 ![[images.jpg]]
 
-Descrição:
-Antigos diziam que, na floresta conhecida como "Jardim dos Corpos", durante o esplendor a lua e a penumbra da noite era possível ouvir o grave canto de uma criatura; assim sendo ungida com o título de Murucututu. Ele atacava suas presas do céu. Antes que os olhos de suas vítimas pudessem cegar-se diante do glorioso reflexo da luz do sol irradiada sobre o corpo da entidade, um som alto e estridente, como o de uma lâmina cortando o ar em uma velocidade impossível, ecoava pelos céus. E então, do firmamento, descia a morte para buscar aquilo que sempre fora seu por direito.
+### Descrição:
+Antigos diziam que, na floresta conhecida como "Jardim dos Corpos", durante o esplendor a lua e a penumbra da noite era possível ouvir o grave canto de uma criatura, assim sendo ungida com o título de Murucututu. Ele atacava suas presas do céu. Antes que os olhos de suas vítimas pudessem cegar-se diante do glorioso reflexo da luz do sol irradiada sobre o corpo da entidade, um som alto e estridente, como o de uma lâmina cortando o ar em uma velocidade impossível, ecoava pelos céus. E então, do firmamento, descia a morte para buscar aquilo que sempre fora seu por direito.
 
 ONDE SERÁ ACHADO
 você acharia uma "estatua" dele e com algum item feito a partir de uma pena dele, acordaria essa estatua e ela levantaria voo até a caverna que aconteceria a boss fight
